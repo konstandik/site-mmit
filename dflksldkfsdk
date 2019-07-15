@@ -1,0 +1,17 @@
+commit cf567296bd73ec17b49b9c7abd3f741e38070352
+Author: Dmitriy Kamkin <solleks777@gmail.com>
+Date:   Tue Mar 5 12:15:21 2019 +0300
+
+    #fix: убарал отслеживание mysql_debug.sql, потому что он имеет слишком большой размер (1.3Гб) для репозитория гитхаба
+
+commit c5cb34ede89f6f1823495851c7006f4df9c91d37
+Author: Dmitriy Kamkin <solleks777@gmail.com>
+Date:   Tue Mar 5 11:50:12 2019 +0300
+
+    #fix: add mysql_debug in gitignore
+
+commit edc22cf689d21dd133b389c67ae76dabd0b22636
+Author: Dmitriy Kamkin <solleks777@gmail.com>
+Date:   Tue Mar 5 10:43:03 2019 +0300
+
+    #add: add all files in repositories

@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/templates/aspro-stroy/styles.css" => "152342388612062","/bitrix/templates/aspro-stroy/template_styles.css" => "1523423886103124",), 'CUR_SEL_CNT' => '1524', 'CUR_IE_CNT' => '0'); ?>

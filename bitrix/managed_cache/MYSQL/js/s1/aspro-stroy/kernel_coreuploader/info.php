@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/js/main/core/core_uploader/common.js" => "15197088158268","/bitrix/js/main/core/core_uploader/uploader.js" => "151970881537079","/bitrix/js/main/core/core_uploader/file.js" => "151970881518434","/bitrix/js/main/core/core_uploader/queue.js" => "151970881510763",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>
