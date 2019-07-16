@@ -1,1 +1,0 @@
-<h3 class="title_block">О компании</h3>
