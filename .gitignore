@@ -1,0 +1,14 @@
+*.log
+*.sql
+google*.html
+yandex_*.html
+sitemap*.xml
+!/bitrix
+/bitrix/*
+!/bitrix/php_interface
+/bitrix/php_interface/after_connect.php
+/bitrix/php_interface/after_connect_d7.php
+/bitrix/php_interface/dbconn.php
+!/bitrix/templates
+/webstat/
+/upload/
