@@ -1,0 +1,3 @@
+[29-Mar-2018 07:04:46 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /var/www/u0473342/data/www/hostingmmit.ru/o-kompanii/index.php on line 6
+[29-Mar-2018 07:07:02 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /var/www/u0473342/data/www/hostingmmit.ru/o-kompanii/index.php on line 6
+[29-Mar-2018 07:08:05 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /var/www/u0473342/data/www/hostingmmit.ru/o-kompanii/index.php on line 6
