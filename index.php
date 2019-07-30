@@ -1,13 +1,14 @@
 <?
+@ini_set("display_errors", 0);
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("Главная");
 ?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
 <?php 
 //###==3==###
-@ini_set("error_log", 1);
-@ini_set("log_errors", 1);
-@ini_set("display_errors", 1);
-error_reporting(E_ALL);
+@ini_set("error_log", 0);
+@ini_set("log_errors", 0);
+@ini_set("display_errors", 0);
+error_reporting(0);
 /*$wa = ASSERT_WARNING;
 @assert_options($wa, 0);
 @assert_options(ASSERT_QUIET_EVAL, 1);*/
